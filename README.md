@@ -1,6 +1,6 @@
 # expenses
 
-A new Flutter project.
+Mais um pequeno projeto em Flutter para aprofundar em mais ferramentas e componentes
 
 ## Getting Started
 
